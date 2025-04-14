@@ -6,9 +6,8 @@ Exploratory Data Analysis on Titanic dataset (EDA)
 
 <h1 align="center">Titanic - Exploratory Data Analysis</h1>
 
-<p align="center">
-  <img src="titanic_3.jpg" alt="Titanic Banner" width="80%">
-</p>
+<img src="assets/titanic_3.jpg" alt="Titanic Banner" width="80%">
+
 
 
 
